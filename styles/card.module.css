@@ -1,0 +1,13 @@
+.card {
+  background-color: #0f0f14;
+  width: 400px;
+  height: 350px;
+}
+
+.title {
+  text-align: center;
+}
+
+.content {
+  padding: 0 10px;
+}
